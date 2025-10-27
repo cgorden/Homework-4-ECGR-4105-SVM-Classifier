@@ -40,5 +40,3 @@ Three plots will be generated:
 - Performance comparison bar chart
 - Actual vs Predicted scatter plot for best model
 - Residuals distribution histogram
-
-- 
